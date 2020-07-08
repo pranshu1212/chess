@@ -10,7 +10,7 @@ public class Square {
 	/**
 	 * The coordinate of the square
 	 */
-	private Coordinate coordinate;
+	private Ccoordinat;
 	/**
 	 * The piece object
 	 */
